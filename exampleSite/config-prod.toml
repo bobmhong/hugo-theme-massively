@@ -1,12 +1,10 @@
 languageCode = "en-us"
-title = "Massively"
+title = "Explore"
 baseURL = "https://mimoderncottage--effervescent-nasturtium-b428e3.netlify.app/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-
-
 
 [params]
   # set below parameter to define a favicon
