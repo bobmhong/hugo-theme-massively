@@ -10,3 +10,5 @@ disableComments = true
 Custom vanity with reclaimed barnwood top. Kohler sink, dual-flush toilet, and fixtures. Tile shower features custom barn door glass enclosure with rainshower head and wand.
 
 {{< figure src="/images/inside/IMG_0140.png" >}}
+
+{{< figure src="/images/inside/IMG_0089.png" >}}
