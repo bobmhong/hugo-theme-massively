@@ -7,3 +7,14 @@ description = 'Ever changing, always beautiful.'
 disableComments = true
 +++
 
+{{< youtube id="6_Q1yAA1hf0" autoplay="true" >}}
+---
+{{< youtube id="rivo9JGXsTc" >}}
+---
+{{< figure src="/images/outside/sunset-bluff.png" >}}
+
+{{< figure src="/images/outside/warm sunset.jpeg" >}}
+
+{{< figure src="/images/outside/beach-golden.png" >}}
+
+
