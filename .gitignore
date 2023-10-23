@@ -4,3 +4,5 @@ exampleSite/resources
 .publish
 test/videos
 .DS_Store
+public
+resources

@@ -1,32 +1,32 @@
 languageCode = "en-us"
-title = "Massively"
+title = "Explore"
 baseURL = "http://localhost:1313/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
-# [params]
+[params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
-  # backgroundPath = "images/bg.jpg"
+  backgroundPath = "images/cottage-lakeside-golden.jpg"
 
 # Below parameters can be set to override default post settings
-# [params.posts]
-#     folderName = "post"
-#     pageSize = "6"
-#     featuredPost = true
-#     paginationPages = 2
-#     showFirstLast = false
+[params.posts]
+    folderName = "post"
+    pageSize = "12"
+    featuredPost = true
+    paginationPages = 1
+    showFirstLast = false
  
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
+#[languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
