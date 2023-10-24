@@ -18,6 +18,12 @@ A short drive to the south you'll see expansive views of valleys, farms, and for
 
 Continue south to visit the charming and popular lakeside communities of Harbor Springs, Petoskey, and Charlevoix. Along the way, you'll find something for everyone: farm markets, wineries, galleries, restaurants, shopping, and more.
 
+{{< figure src="/images/Harbor Springs.jpeg" title="Harbor Springs" >}}
+
+{{< figure src="/images/Petoskey.jpeg" title="Petoskey" >}}
+
+{{< figure src="/images/Bay Shore Morning.jpeg" title="Little Traverse Bay Morning" >}}
+
 A short drive to the north will take you to Mackinaw City, Mackinaw Island, and the Upper Peninsula.
 
 ![img](/images/micottagemap.png)
