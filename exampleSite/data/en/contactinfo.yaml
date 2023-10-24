@@ -1,4 +1,5 @@
-contactformaction: 'post-action'
+# contactformaction: 'post-action'
+contactformaction: "https://api.staticforms.xyz/submit"
 
 address:
 - line: '7489 N Lake Shore Dr'

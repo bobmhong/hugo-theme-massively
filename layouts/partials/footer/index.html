@@ -4,6 +4,9 @@
     {{ with $data.contactinfo.contactformaction }}
     <section>
       <form method="post" action="{{ . }}">
+        <input type="hidden" name="accessKey" value="09c0fa60-9b09-4590-989f-164eb6e4537c">
+        <input type="hidden" name="subject" value="Contact Us from MI Modern Cottage" />
+        <input type="hidden" name="redirectTo" value="https://mimoderncottage.netlify.app/message-sent">
         <div class="fields">
           <div class="field">
             <label for="name">{{ i18n "CONTACT_FORM_FIELD_NAME" . }}</label>
@@ -67,7 +70,7 @@
                 <li><a href="{{ . }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
                 {{ end }}
                 {{ with .youtube}}
-                <li><a href="{{ . }}" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-youtube" target="_blank" rel="noopener noreferrer"><span class="label">Youtube</span></a></li>
                 {{ end }}
                 {{ with .googleplus}}
                 <li><a href="{{ . }}" class="icon alt fa-google-plus"><span class="label">Google Plus</span></a></li>

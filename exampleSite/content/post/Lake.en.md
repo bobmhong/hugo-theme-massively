@@ -10,8 +10,9 @@ Your own 150ft private beach is the perfect place to relax, swim, and enjoy the 
 
 In the distance you'll see Beaver Island, several lighthouses, and Waugoshance Island at the western extent of Wildernes State Park.
 
+{{< youtube id="3UDZ5KspS2c" autoplay="true" >}}
+---
+
 {{< figure src="/images/outside/IMG_3847.png" title="Morning solace" >}}
 
 {{< figure src="/images/outside/sunset-sup.png" title="Sunset SUP" >}}
-
-{{< youtube id="2eEeHoz_nJs" autoplay="true" >}}
