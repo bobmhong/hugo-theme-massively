@@ -1,5 +1,5 @@
 +++
-title = '11. Location'
+title = '  Location'
 slug = 'location'
 image = 'images/road.png'
 description = 'Winding roads and daily delights.'

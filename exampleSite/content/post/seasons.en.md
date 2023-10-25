@@ -1,5 +1,5 @@
 +++
-title = '12. Seasons'
+title = ' Seasons'
 slug = 'seasons'
 image = 'images/Fall Colors.png'
 #date = "2019-08-15T00:00:00"

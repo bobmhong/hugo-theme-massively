@@ -1,5 +1,5 @@
 +++
-title = '10. Wildlife'
+title = '   Wildlife'
 slug = 'wildlife'
 image = 'images/eagle-soar-ethereal.jpg'
 #date = "2022-03-29T00:00:00"

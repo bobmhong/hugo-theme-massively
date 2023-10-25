@@ -1,5 +1,5 @@
 +++
-title = ' 7. Sleeping'
+title = '      Sleeping'
 slug = 'sleeping'
 image = 'images/inside/IMG_0080.png'
 

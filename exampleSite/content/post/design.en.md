@@ -1,5 +1,5 @@
 +++
-title = ' 1. Design'
+title = '            Design'
 slug = 'design'
 
 #image='images/outside/IMG_0123.png'

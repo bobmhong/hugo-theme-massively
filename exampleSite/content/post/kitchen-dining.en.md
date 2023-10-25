@@ -1,5 +1,5 @@
 +++
-title = ' 4. Kitchen and Dining'
+title = '          Kitchen and Dining'
 slug = 'kitchen-and-dining'
 image = 'images/inside/IMG_0061.png'
 #date = "2019-04-18T00:00:00"

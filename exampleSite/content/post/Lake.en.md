@@ -1,9 +1,9 @@
 +++
-title = ' 2. Lake'
+title = '           Lake'
 slug = 'post'
 image = 'images/stairs.png'
 #date = "2012-02-06T00:00:00"
-description = '150ft private white-sand beach'
+description = '150 feet of private white sand beach on Lake Michigan.'
 disableComments = true
 +++
 Your own 150ft private beach is the perfect place to relax, swim, and enjoy the sun, or hunt for treasured Petoskey stones, fossils, and driftwood. You'll delight in kayaking, paddle boarding, or boating along the shore and in the bay.

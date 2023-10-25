@@ -1,5 +1,5 @@
 +++
-title = ' 3. Great Room'
+title = '         Great Room'
 slug = 'great-room'
 image = 'images/inside/vault.png'
 

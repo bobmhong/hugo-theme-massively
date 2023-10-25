@@ -1,5 +1,5 @@
 +++
-title = ' 9. Sunsets'
+title = '    Sunsets'
 slug = 'sunsets'
 image = 'images/outside/sunset.png'
 #date = "2019-03-18T00:00:00"
