@@ -15,6 +15,6 @@ Environmental impact was minimized with a modest footprint, high energy efficien
 
 {{< figure src="/images/outside/IMG_0123.png" >}}
 
-## Designed for now and years ahead...
+### Forward Thinking Design
 
-You'll likely find that the cottage has an ample amount of living space for weekend trips and extended getaways. But what if you'd like more room to accomodate extended family or to make it your permanent home? The cottage was designed to easily add an optional master suite and bedroom wing.  The architect/owner is available to collaboratively design the cottage or home of your dreams.
+You'll find that the cottage has a surprising amount of living space for weekend trips and extended family getaways. But what if you'd like to accomodate more guests or to make it your permanent home? The cottage and site plan was envisioned to easily add a master suite and bedroom wing.  The architect/owner is available to collaboratively design an addition to fulfill your imagination.

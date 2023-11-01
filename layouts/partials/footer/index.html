@@ -1,6 +1,6 @@
 <!-- Footer -->
 {{ $data := index .Site.Data .Site.Language.Lang }}
-<footer id="footer">
+<footer id="footer">  
     {{ with $data.contactinfo.contactformaction }}
     <section>
       <form method="post" action="{{ . }}">
@@ -8,6 +8,7 @@
         <input type="hidden" name="subject" value="Contact Us from MI Modern Cottage" />
         <input type="hidden" name="redirectTo" value="https://mimoderncottage.com/message-sent">
         <div class="fields">
+          Send us a message to learn more or arrange a private showing:
           <div class="field">
             <label for="name">{{ i18n "CONTACT_FORM_FIELD_NAME" . }}</label>
             <input type="text" name="name" id="name" />
